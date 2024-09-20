@@ -11,6 +11,7 @@ int main(void) {
     int e = 0;
     int q = 0;
     int j = 0;
+    int d = 0;
     scanf("%d%d%d%d%d%d%d%d%d/n",&a,&b,&c,&w,&z,&r,&u,&e);
     printf("%d",a - b + c + w - z + r - u + e);
     return 0;
