@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(void) {
-    printf("input eight number/n");
+    printf("input seven number/n");
     int a = 0;
     int b = 0;
     int c = 0;
