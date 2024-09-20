@@ -8,6 +8,7 @@ int main(void) {
     int z = 0;
     int r = 0;
     int u = 0;
+    int e = 0;
     scanf("%d%d%d%d%d%d%d%d/n",&a,&b,&c,&w,&z,&r,&u);
     printf("%d",a - b + c + w - z + r - u);
     return 0;
