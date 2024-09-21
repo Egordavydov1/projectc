@@ -1,8 +1,6 @@
 #include <stdio.h>
 int main(void) {
     printf("input eight number/n");
-    int s = 0;
-    int t = 0;
     int a = 0;
     int b = 0;
     int c = 0;
@@ -11,10 +9,6 @@ int main(void) {
     int r = 0;
     int u = 0;
     int e = 0;
-    int q = 0;
-    int j = 0;
-    int d = 0;
-    int l = 0;
     scanf("%d%d%d%d%d%d%d%d%d/n",&a,&b,&c,&w,&z,&r,&u,&e);
     printf("%d",a - b + c + w - z + r - u + e);
     return 0;
